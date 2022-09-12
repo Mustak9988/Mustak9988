@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mustak9988
 - 👀 I’m interested in advance AI.
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on AI or Mobile developmet with android, ios and flutter
+- 🌱 I’m currently learning ML.
+- 💞️ I’m looking to collaborate on ML or Mobile developmet with android, ios and flutter
 - 📫 How to reach me through khadem.mustak9988@gmail.com or Mostak Khan Khadem on FB or Twttter.
 
 <!---
